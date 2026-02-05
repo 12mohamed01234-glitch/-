@@ -1,0 +1,8 @@
+{
+  "name": "Zagazig National University (ZNU) Unified Digital Platform",
+  "description": "An enterprise-grade institutional portal for ZNU students and staff, featuring academic resource management, anonymous evaluations, and unified electronic services with a modern dark UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
